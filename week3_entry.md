@@ -2,10 +2,10 @@ Week:
 	Week 3.
 
 Learning Activities & Resources: 
-	Self-learning WordPress on it's usage and practical works on two websites using its services.
+	Self-learning WordPress on it's usage and practical building of two websites using its services.
 
 Estimated Hours: 
-	I spent around 7 hours on self-learning Wordpress then configuring 2 websites.
+	I spent around 7 hours on self-learning Wordpress, building two websites using it and finding a migration method to provide my local website to professor.
  
 Content Insights: 
 	I spent almost a week not because of me having a hard time understanding Wordpress usage but spending extra time on figuring out how do I have to migrate my local website to live server so the professor can view it. The first website I built will be used for the assignement and the second website will be used for third week practical assessment.
