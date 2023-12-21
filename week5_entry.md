@@ -9,8 +9,10 @@ Estimated Hours:
  
 Content Insights: 
 	Professor gave us two options to do this child theme customization, the first method was to use Varying Vagrant Vagrants (VVV) which I thought was that it seems to be way more complicated and more time consuming so I decided to use second method where I have to override styles in style.css for customization. Since the professor only want the change of red color in title menu, that was the only thing I did.
+ 
   The first image is the website UI before customization.
 ![Screenshot (46)](https://github.com/HtetArkarWin/weeklyentry.md/assets/103827096/c69349de-e531-452a-9c69-ad24f97896dd)
+
   THe second image is the website UI after customization.
 ![Screenshot (49)](https://github.com/HtetArkarWin/weeklyentry.md/assets/103827096/418008c8-8734-4908-b0b4-ba5961adb580)
 
